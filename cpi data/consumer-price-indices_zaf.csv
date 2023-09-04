@@ -1,0 +1,818 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,,,#date+year,#indicator+type,#indicator+value+num,,
+ZAF,2000-01-01,2000-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,Index,34.216680,X,base year is 2015
+ZAF,2001-01-01,2001-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,Index,35.913380,X,base year is 2015
+ZAF,2002-01-01,2002-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,Index,40.331850,X,base year is 2015
+ZAF,2003-01-01,2003-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,Index,47.344950,X,base year is 2015
+ZAF,2004-01-01,2004-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,Index,47.968770,X,base year is 2015
+ZAF,2005-01-01,2005-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,Index,48.566330,X,base year is 2015
+ZAF,2006-01-01,2006-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,Index,50.299900,X,base year is 2015
+ZAF,2007-01-01,2007-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,Index,54.180740,X,base year is 2015
+ZAF,2008-01-01,2008-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,Index,61.331730,X,base year is 2015
+ZAF,2009-01-01,2009-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,Index,71.121770,X,base year is 2015
+ZAF,2010-01-01,2010-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,Index,72.561490,X,base year is 2015
+ZAF,2011-01-01,2011-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,Index,75.009000,X,base year is 2015
+ZAF,2012-01-01,2012-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,Index,82.639470,X,base year is 2015
+ZAF,2013-01-01,2013-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,Index,87.534490,X,base year is 2015
+ZAF,2014-01-01,2014-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,Index,91.853630,X,base year is 2015
+ZAF,2015-01-01,2015-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,Index,97.468510,X,base year is 2015
+ZAF,2016-01-01,2016-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,Index,104.523100,X,base year is 2015
+ZAF,2017-01-01,2017-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,Index,117.624500,X,base year is 2015
+ZAF,2018-01-01,2018-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,Index,122.231600,X,base year is 2015
+ZAF,2019-01-01,2019-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,Index,125.830800,X,base year is 2015
+ZAF,2020-01-01,2020-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,Index,130.581900,X,base year is 2015
+ZAF,2021-01-01,2021-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,Index,137.492500,X,base year is 2015
+ZAF,2022-01-01,2022-01-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,Index,145.267000,X,base year is 2015
+ZAF,2000-02-01,2000-02-29,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,Index,34.464120,X,base year is 2015
+ZAF,2001-02-01,2001-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,Index,36.302200,X,base year is 2015
+ZAF,2002-02-01,2002-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,Index,40.699580,X,base year is 2015
+ZAF,2003-02-01,2003-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,Index,46.918120,X,base year is 2015
+ZAF,2004-02-01,2004-02-29,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,Index,48.054130,X,base year is 2015
+ZAF,2005-02-01,2005-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,Index,48.586030,X,base year is 2015
+ZAF,2006-02-01,2006-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,Index,50.431230,X,base year is 2015
+ZAF,2007-02-01,2007-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,Index,54.134780,X,base year is 2015
+ZAF,2008-02-01,2008-02-29,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,Index,61.475700,X,base year is 2015
+ZAF,2009-02-01,2009-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,Index,71.265750,X,base year is 2015
+ZAF,2010-02-01,2010-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,Index,72.417520,X,base year is 2015
+ZAF,2011-02-01,2011-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,Index,75.009000,X,base year is 2015
+ZAF,2012-02-01,2012-02-29,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,Index,82.351530,X,base year is 2015
+ZAF,2013-02-01,2013-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,Index,87.102580,X,base year is 2015
+ZAF,2014-02-01,2014-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,Index,92.285550,X,base year is 2015
+ZAF,2015-02-01,2015-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,Index,97.900420,X,base year is 2015
+ZAF,2016-02-01,2016-02-29,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,Index,107.114600,X,base year is 2015
+ZAF,2017-02-01,2017-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,Index,118.344300,X,base year is 2015
+ZAF,2018-02-01,2018-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,Index,122.375500,X,base year is 2015
+ZAF,2019-02-01,2019-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,Index,125.830800,X,base year is 2015
+ZAF,2020-02-01,2020-02-29,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,Index,131.157800,X,base year is 2015
+ZAF,2021-02-01,2021-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,Index,137.780400,X,base year is 2015
+ZAF,2022-02-01,2022-02-28,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,Index,146.706700,X,base year is 2015
+ZAF,2000-03-01,2000-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,Index,34.852940,X,base year is 2015
+ZAF,2001-03-01,2001-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,Index,36.443590,X,base year is 2015
+ZAF,2002-03-01,2002-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,Index,41.467870,X,base year is 2015
+ZAF,2003-03-01,2003-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,Index,47.101980,X,base year is 2015
+ZAF,2004-03-01,2004-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,Index,48.106670,X,base year is 2015
+ZAF,2005-03-01,2005-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,Index,48.520360,X,base year is 2015
+ZAF,2006-03-01,2006-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,Index,50.647930,X,base year is 2015
+ZAF,2007-03-01,2007-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,Index,54.456540,X,base year is 2015
+ZAF,2008-03-01,2008-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,Index,62.483500,X,base year is 2015
+ZAF,2009-03-01,2009-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,Index,71.697660,X,base year is 2015
+ZAF,2010-03-01,2010-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,Index,72.417520,X,base year is 2015
+ZAF,2011-03-01,2011-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,Index,75.872830,X,base year is 2015
+ZAF,2012-03-01,2012-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,Index,82.495500,X,base year is 2015
+ZAF,2013-03-01,2013-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,Index,86.958610,X,base year is 2015
+ZAF,2014-03-01,2014-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,Index,93.725260,X,base year is 2015
+ZAF,2015-03-01,2015-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,Index,98.620280,X,base year is 2015
+ZAF,2016-03-01,2016-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,Index,109.130200,X,base year is 2015
+ZAF,2017-03-01,2017-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,Index,118.920200,X,base year is 2015
+ZAF,2018-03-01,2018-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,Index,122.375500,X,base year is 2015
+ZAF,2019-03-01,2019-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,Index,126.262700,X,base year is 2015
+ZAF,2020-03-01,2020-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,Index,131.445700,X,base year is 2015
+ZAF,2021-03-01,2021-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,Index,138.932200,X,base year is 2015
+ZAF,2022-03-01,2022-03-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,Index,147.570500,X,base year is 2015
+ZAF,2000-04-01,2000-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,Index,35.171070,X,base year is 2015
+ZAF,2001-04-01,2001-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,Index,36.584980,X,base year is 2015
+ZAF,2002-04-01,2002-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,Index,42.249290,X,base year is 2015
+ZAF,2003-04-01,2003-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,Index,47.095420,X,base year is 2015
+ZAF,2004-04-01,2004-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,Index,48.106670,X,base year is 2015
+ZAF,2005-04-01,2005-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,Index,48.546630,X,base year is 2015
+ZAF,2006-04-01,2006-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,Index,50.844920,X,base year is 2015
+ZAF,2007-04-01,2007-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,Index,55.126330,X,base year is 2015
+ZAF,2008-04-01,2008-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,Index,63.203360,X,base year is 2015
+ZAF,2009-04-01,2009-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,Index,71.985600,X,base year is 2015
+ZAF,2010-04-01,2010-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,Index,72.561490,X,base year is 2015
+ZAF,2011-04-01,2011-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,Index,76.016800,X,base year is 2015
+ZAF,2012-04-01,2012-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,Index,82.495500,X,base year is 2015
+ZAF,2013-04-01,2013-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,Index,87.390520,X,base year is 2015
+ZAF,2014-04-01,2014-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,Index,95.021000,X,base year is 2015
+ZAF,2015-04-01,2015-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,Index,99.196160,X,base year is 2015
+ZAF,2016-04-01,2016-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,Index,111.433700,X,base year is 2015
+ZAF,2017-04-01,2017-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,Index,118.776200,X,base year is 2015
+ZAF,2018-04-01,2018-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,Index,122.807400,X,base year is 2015
+ZAF,2019-04-01,2019-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,Index,126.550700,X,base year is 2015
+ZAF,2020-04-01,2020-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,Index,131.877600,X,base year is 2015
+ZAF,2021-04-01,2021-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,Index,140.228000,X,base year is 2015
+ZAF,2022-04-01,2022-04-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,Index,148.578300,X,base year is 2015
+ZAF,2000-05-01,2000-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,Index,35.453850,X,base year is 2015
+ZAF,2001-05-01,2001-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,Index,36.832420,X,base year is 2015
+ZAF,2002-05-01,2002-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,Index,42.564490,X,base year is 2015
+ZAF,2003-05-01,2003-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,Index,47.364650,X,base year is 2015
+ZAF,2004-05-01,2004-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,Index,48.178900,X,base year is 2015
+ZAF,2005-05-01,2005-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,Index,48.507230,X,base year is 2015
+ZAF,2006-05-01,2006-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,Index,51.087890,X,base year is 2015
+ZAF,2007-05-01,2007-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,Index,55.704190,X,base year is 2015
+ZAF,2008-05-01,2008-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,Index,64.355130,X,base year is 2015
+ZAF,2009-05-01,2009-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,Index,72.273540,X,base year is 2015
+ZAF,2010-05-01,2010-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,Index,72.705460,X,base year is 2015
+ZAF,2011-05-01,2011-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,Index,77.168560,X,base year is 2015
+ZAF,2012-05-01,2012-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,Index,82.495500,X,base year is 2015
+ZAF,2013-05-01,2013-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,Index,87.390520,X,base year is 2015
+ZAF,2014-05-01,2014-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,Index,95.740850,X,base year is 2015
+ZAF,2015-05-01,2015-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,Index,99.772050,X,base year is 2015
+ZAF,2016-05-01,2016-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,Index,111.721700,X,base year is 2015
+ZAF,2017-05-01,2017-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,Index,119.352100,X,base year is 2015
+ZAF,2018-05-01,2018-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,Index,122.663500,X,base year is 2015
+ZAF,2019-05-01,2019-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,Index,126.982600,X,base year is 2015
+ZAF,2020-05-01,2020-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,Index,132.309500,X,base year is 2015
+ZAF,2021-05-01,2021-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,Index,141.235700,X,base year is 2015
+ZAF,2022-05-01,2022-05-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,Index,151.889600,X,base year is 2015
+ZAF,2000-06-01,2000-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,Index,35.665940,X,base year is 2015
+ZAF,2001-06-01,2001-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,Index,36.797070,X,base year is 2015
+ZAF,2002-06-01,2002-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,Index,43.339340,X,base year is 2015
+ZAF,2003-06-01,2003-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,Index,47.239880,X,base year is 2015
+ZAF,2004-06-01,2004-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,Index,47.922810,X,base year is 2015
+ZAF,2005-06-01,2005-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,Index,48.270830,X,base year is 2015
+ZAF,2006-06-01,2006-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,Index,51.357120,X,base year is 2015
+ZAF,2007-06-01,2007-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,Index,56.052220,X,base year is 2015
+ZAF,2008-06-01,2008-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,Index,65.506900,X,base year is 2015
+ZAF,2009-06-01,2009-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,Index,72.129580,X,base year is 2015
+ZAF,2010-06-01,2010-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,Index,72.417520,X,base year is 2015
+ZAF,2011-06-01,2011-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,Index,77.456510,X,base year is 2015
+ZAF,2012-06-01,2012-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,Index,82.207560,X,base year is 2015
+ZAF,2013-06-01,2013-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,Index,87.390520,X,base year is 2015
+ZAF,2014-06-01,2014-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,Index,95.884830,X,base year is 2015
+ZAF,2015-06-01,2015-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,Index,99.772050,X,base year is 2015
+ZAF,2016-06-01,2016-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,Index,111.721700,X,base year is 2015
+ZAF,2017-06-01,2017-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,Index,119.352100,X,base year is 2015
+ZAF,2018-06-01,2018-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,Index,122.807400,X,base year is 2015
+ZAF,2019-06-01,2019-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,Index,127.414500,X,base year is 2015
+ZAF,2020-06-01,2020-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,Index,132.597500,X,base year is 2015
+ZAF,2021-06-01,2021-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,Index,141.379700,X,base year is 2015
+ZAF,2022-06-01,2022-06-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,Index,153.905200,X,base year is 2015
+ZAF,2000-07-01,2000-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,Index,35.665940,X,base year is 2015
+ZAF,2001-07-01,2001-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,Index,36.973810,X,base year is 2015
+ZAF,2002-07-01,2002-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,Index,43.930330,X,base year is 2015
+ZAF,2003-07-01,2003-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,Index,47.226750,X,base year is 2015
+ZAF,2004-07-01,2004-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,Index,47.647010,X,base year is 2015
+ZAF,2005-07-01,2005-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,Index,48.638560,X,base year is 2015
+ZAF,2006-07-01,2006-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,Index,51.613220,X,base year is 2015
+ZAF,2007-07-01,2007-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,Index,56.662900,X,base year is 2015
+ZAF,2008-07-01,2008-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,Index,66.658670,X,base year is 2015
+ZAF,2009-07-01,2009-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,Index,71.697660,X,base year is 2015
+ZAF,2010-07-01,2010-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,Index,72.561490,X,base year is 2015
+ZAF,2011-07-01,2011-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,Index,78.032390,X,base year is 2015
+ZAF,2012-07-01,2012-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,Index,82.207560,X,base year is 2015
+ZAF,2013-07-01,2013-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,Index,87.678470,X,base year is 2015
+ZAF,2014-07-01,2014-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,Index,95.740850,X,base year is 2015
+ZAF,2015-07-01,2015-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,Index,99.772050,X,base year is 2015
+ZAF,2016-07-01,2016-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,Index,112.297500,X,base year is 2015
+ZAF,2017-07-01,2017-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,Index,119.496100,X,base year is 2015
+ZAF,2018-07-01,2018-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,Index,123.095400,X,base year is 2015
+ZAF,2019-07-01,2019-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,Index,127.414500,X,base year is 2015
+ZAF,2020-07-01,2020-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,Index,132.741500,X,base year is 2015
+ZAF,2021-07-01,2021-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,Index,141.667700,X,base year is 2015
+ZAF,2022-07-01,2022-07-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,Index,155.632900,X,base year is 2015
+ZAF,2000-08-01,2000-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,Index,35.736640,X,base year is 2015
+ZAF,2001-08-01,2001-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,Index,37.150550,X,base year is 2015
+ZAF,2002-08-01,2002-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,Index,44.692050,X,base year is 2015
+ZAF,2003-08-01,2003-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,Index,47.253010,X,base year is 2015
+ZAF,2004-08-01,2004-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,Index,47.555080,X,base year is 2015
+ZAF,2005-08-01,2005-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,Index,48.697660,X,base year is 2015
+ZAF,2006-08-01,2006-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,Index,51.875880,X,base year is 2015
+ZAF,2007-08-01,2007-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,Index,57.464030,X,base year is 2015
+ZAF,2008-08-01,2008-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,Index,67.378520,X,base year is 2015
+ZAF,2009-08-01,2009-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,Index,71.841630,X,base year is 2015
+ZAF,2010-08-01,2010-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,Index,72.993400,X,base year is 2015
+ZAF,2011-08-01,2011-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,Index,78.176360,X,base year is 2015
+ZAF,2012-08-01,2012-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,Index,82.063590,X,base year is 2015
+ZAF,2013-08-01,2013-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,Index,88.110370,X,base year is 2015
+ZAF,2014-08-01,2014-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,Index,96.460710,X,base year is 2015
+ZAF,2015-08-01,2015-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,Index,100.491900,X,base year is 2015
+ZAF,2016-08-01,2016-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,Index,113.305300,X,base year is 2015
+ZAF,2017-08-01,2017-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,Index,119.208200,X,base year is 2015
+ZAF,2018-08-01,2018-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,Index,122.951400,X,base year is 2015
+ZAF,2019-08-01,2019-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,Index,128.134400,X,base year is 2015
+ZAF,2020-08-01,2020-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,Index,132.885400,X,base year is 2015
+ZAF,2021-08-01,2021-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,Index,141.955600,X,base year is 2015
+ZAF,2022-08-01,2022-08-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,Index,158.368300,X,base year is 2015
+ZAF,2000-09-01,2000-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,Index,35.842680,X,base year is 2015
+ZAF,2001-09-01,2001-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,Index,37.504030,X,base year is 2015
+ZAF,2002-09-01,2002-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,Index,45.558840,X,base year is 2015
+ZAF,2003-09-01,2003-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,Index,47.187350,X,base year is 2015
+ZAF,2004-09-01,2004-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,Index,47.587910,X,base year is 2015
+ZAF,2005-09-01,2005-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,Index,48.868390,X,base year is 2015
+ZAF,2006-09-01,2006-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,Index,52.407770,X,base year is 2015
+ZAF,2007-09-01,2007-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,Index,58.514680,X,base year is 2015
+ZAF,2008-09-01,2008-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,Index,68.386320,X,base year is 2015
+ZAF,2009-09-01,2009-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,Index,71.841630,X,base year is 2015
+ZAF,2010-09-01,2010-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,Index,72.849430,X,base year is 2015
+ZAF,2011-09-01,2011-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,Index,79.040190,X,base year is 2015
+ZAF,2012-09-01,2012-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,Index,83.647270,X,base year is 2015
+ZAF,2013-09-01,2013-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,Index,88.830230,X,base year is 2015
+ZAF,2014-09-01,2014-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,Index,96.460710,X,base year is 2015
+ZAF,2015-09-01,2015-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,Index,100.635900,X,base year is 2015
+ZAF,2016-09-01,2016-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,Index,113.449300,X,base year is 2015
+ZAF,2017-09-01,2017-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,Index,119.208200,X,base year is 2015
+ZAF,2018-09-01,2018-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,Index,123.383300,X,base year is 2015
+ZAF,2019-09-01,2019-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,Index,128.422300,X,base year is 2015
+ZAF,2020-09-01,2020-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,Index,133.029400,X,base year is 2015
+ZAF,2021-09-01,2021-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,Index,141.955600,X,base year is 2015
+ZAF,2022-09-01,2022-09-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,Index,158.944200,X,base year is 2015
+ZAF,2000-10-01,2000-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,Index,35.771980,X,base year is 2015
+ZAF,2001-10-01,2001-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,Index,38.034240,X,base year is 2015
+ZAF,2002-10-01,2002-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,Index,46.333690,X,base year is 2015
+ZAF,2003-10-01,2003-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,Index,47.417180,X,base year is 2015
+ZAF,2004-10-01,2004-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,Index,47.909670,X,base year is 2015
+ZAF,2005-10-01,2005-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,Index,48.953750,X,base year is 2015
+ZAF,2006-10-01,2006-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,Index,53.038160,X,base year is 2015
+ZAF,2007-10-01,2007-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,Index,59.473400,X,base year is 2015
+ZAF,2008-10-01,2008-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,Index,68.962200,X,base year is 2015
+ZAF,2009-10-01,2009-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,Index,72.417520,X,base year is 2015
+ZAF,2010-10-01,2010-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,Index,73.137370,X,base year is 2015
+ZAF,2011-10-01,2011-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,Index,80.623880,X,base year is 2015
+ZAF,2012-10-01,2012-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,Index,85.662860,X,base year is 2015
+ZAF,2013-10-01,2013-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,Index,89.550090,X,base year is 2015
+ZAF,2014-10-01,2014-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,Index,96.460710,X,base year is 2015
+ZAF,2015-10-01,2015-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,Index,101.355700,X,base year is 2015
+ZAF,2016-10-01,2016-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,Index,114.313100,X,base year is 2015
+ZAF,2017-10-01,2017-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,Index,119.928000,X,base year is 2015
+ZAF,2018-10-01,2018-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,Index,123.527300,X,base year is 2015
+ZAF,2019-10-01,2019-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,Index,128.278400,X,base year is 2015
+ZAF,2020-10-01,2020-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,Index,134.901000,X,base year is 2015
+ZAF,2021-10-01,2021-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,Index,143.251300,X,base year is 2015
+ZAF,2022-10-01,2022-10-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,Index,160.383900,X,base year is 2015
+ZAF,2000-11-01,2000-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,Index,35.665940,X,base year is 2015
+ZAF,2001-11-01,2001-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,Index,38.705850,X,base year is 2015
+ZAF,2002-11-01,2002-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,Index,46.655460,X,base year is 2015
+ZAF,2003-11-01,2003-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,Index,47.752080,X,base year is 2015
+ZAF,2004-11-01,2004-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,Index,48.329930,X,base year is 2015
+ZAF,2005-11-01,2005-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,Index,49.268950,X,base year is 2015
+ZAF,2006-11-01,2006-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,Index,53.222020,X,base year is 2015
+ZAF,2007-11-01,2007-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,Index,60.051250,X,base year is 2015
+ZAF,2008-11-01,2008-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,Index,69.394120,X,base year is 2015
+ZAF,2009-11-01,2009-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,Index,72.273540,X,base year is 2015
+ZAF,2010-11-01,2010-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,Index,73.137370,X,base year is 2015
+ZAF,2011-11-01,2011-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,Index,81.055790,X,base year is 2015
+ZAF,2012-11-01,2012-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,Index,86.814640,X,base year is 2015
+ZAF,2013-11-01,2013-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,Index,90.269940,X,base year is 2015
+ZAF,2014-11-01,2014-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,Index,96.892620,X,base year is 2015
+ZAF,2015-11-01,2015-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,Index,102.219600,X,base year is 2015
+ZAF,2016-11-01,2016-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,Index,114.889000,X,base year is 2015
+ZAF,2017-11-01,2017-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,Index,120.359900,X,base year is 2015
+ZAF,2018-11-01,2018-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,Index,124.103200,X,base year is 2015
+ZAF,2019-11-01,2019-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,Index,128.710300,X,base year is 2015
+ZAF,2020-11-01,2020-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,Index,135.764800,X,base year is 2015
+ZAF,2021-11-01,2021-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,Index,143.395300,X,base year is 2015
+ZAF,2022-11-01,2022-11-30,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,Index,161.247800,X,base year is 2015
+ZAF,2000-12-01,2000-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,Index,35.595250,X,base year is 2015
+ZAF,2001-12-01,2001-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,Index,39.660240,X,base year is 2015
+ZAF,2002-12-01,2002-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,Index,46.813050,X,base year is 2015
+ZAF,2003-12-01,2003-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,Index,47.568210,X,base year is 2015
+ZAF,2004-12-01,2004-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,Index,48.185470,X,base year is 2015
+ZAF,2005-12-01,2005-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,Index,49.846810,X,base year is 2015
+ZAF,2006-12-01,2006-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,Index,53.307390,X,base year is 2015
+ZAF,2007-12-01,2007-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,Index,60.300780,X,base year is 2015
+ZAF,2008-12-01,2008-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,Index,69.682060,X,base year is 2015
+ZAF,2009-12-01,2009-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,Index,72.129580,X,base year is 2015
+ZAF,2010-12-01,2010-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,Index,73.281340,X,base year is 2015
+ZAF,2011-12-01,2011-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,Index,81.487700,X,base year is 2015
+ZAF,2012-12-01,2012-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,Index,86.814640,X,base year is 2015
+ZAF,2013-12-01,2013-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,Index,90.269940,X,base year is 2015
+ZAF,2014-12-01,2014-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,Index,96.604680,X,base year is 2015
+ZAF,2015-12-01,2015-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,Index,102.795400,X,base year is 2015
+ZAF,2016-12-01,2016-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,Index,115.896800,X,base year is 2015
+ZAF,2017-12-01,2017-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,Index,120.791800,X,base year is 2015
+ZAF,2018-12-01,2018-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,Index,124.103200,X,base year is 2015
+ZAF,2019-12-01,2019-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,Index,128.998200,X,base year is 2015
+ZAF,2020-12-01,2020-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,Index,136.628700,X,base year is 2015
+ZAF,2021-12-01,2021-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,Index,143.971200,X,base year is 2015
+ZAF,2022-12-01,2022-12-31,202,'710,South Africa,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,Index,161.967600,X,base year is 2015
+ZAF,2000-01-01,2000-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,Index,44.564950,X,base year is 2015
+ZAF,2001-01-01,2001-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,Index,47.738300,X,base year is 2015
+ZAF,2002-01-01,2002-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,Index,50.129820,X,base year is 2015
+ZAF,2003-01-01,2003-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,Index,56.415820,X,base year is 2015
+ZAF,2004-01-01,2004-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,Index,55.287910,X,base year is 2015
+ZAF,2005-01-01,2005-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,Index,56.429570,X,base year is 2015
+ZAF,2006-01-01,2006-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,Index,57.612500,X,base year is 2015
+ZAF,2007-01-01,2007-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,Index,60.597310,X,base year is 2015
+ZAF,2008-01-01,2008-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,Index,65.623950,X,base year is 2015
+ZAF,2009-01-01,2009-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,Index,71.160120,X,base year is 2015
+ZAF,2010-01-01,2010-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,Index,75.346010,X,base year is 2015
+ZAF,2011-01-01,2011-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,Index,78.046590,X,base year is 2015
+ZAF,2012-01-01,2012-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,Index,82.907620,X,base year is 2015
+ZAF,2013-01-01,2013-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,Index,87.498600,X,base year is 2015
+ZAF,2014-01-01,2014-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,Index,92.494650,X,base year is 2015
+ZAF,2015-01-01,2015-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,Index,96.680540,X,base year is 2015
+ZAF,2016-01-01,2016-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,Index,102.621800,X,base year is 2015
+ZAF,2017-01-01,2017-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,Index,109.643300,X,base year is 2015
+ZAF,2018-01-01,2018-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,Index,114.369300,X,base year is 2015
+ZAF,2019-01-01,2019-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,Index,118.825200,X,base year is 2015
+ZAF,2020-01-01,2020-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,Index,123.956300,X,base year is 2015
+ZAF,2021-01-01,2021-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,Index,128.007200,X,base year is 2015
+ZAF,2022-01-01,2022-01-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,Index,135.298800,X,base year is 2015
+ZAF,2000-02-01,2000-02-29,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,Index,44.426980,X,base year is 2015
+ZAF,2001-02-01,2001-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,Index,47.876270,X,base year is 2015
+ZAF,2002-02-01,2002-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,Index,50.735030,X,base year is 2015
+ZAF,2003-02-01,2003-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,Index,56.353920,X,base year is 2015
+ZAF,2004-02-01,2004-02-29,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,Index,55.459850,X,base year is 2015
+ZAF,2005-02-01,2005-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,Index,56.457080,X,base year is 2015
+ZAF,2006-02-01,2006-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,Index,57.688150,X,base year is 2015
+ZAF,2007-02-01,2007-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,Index,60.521660,X,base year is 2015
+ZAF,2008-02-01,2008-02-29,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,Index,65.894000,X,base year is 2015
+ZAF,2009-02-01,2009-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,Index,71.835270,X,base year is 2015
+ZAF,2010-02-01,2010-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,Index,75.751100,X,base year is 2015
+ZAF,2011-02-01,2011-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,Index,78.451670,X,base year is 2015
+ZAF,2012-02-01,2012-02-29,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,Index,83.312710,X,base year is 2015
+ZAF,2013-02-01,2013-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,Index,88.308770,X,base year is 2015
+ZAF,2014-02-01,2014-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,Index,93.439860,X,base year is 2015
+ZAF,2015-02-01,2015-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,Index,97.355690,X,base year is 2015
+ZAF,2016-02-01,2016-02-29,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,Index,104.107100,X,base year is 2015
+ZAF,2017-02-01,2017-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,Index,110.858600,X,base year is 2015
+ZAF,2018-02-01,2018-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,Index,115.044400,X,base year is 2015
+ZAF,2019-02-01,2019-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,Index,119.770500,X,base year is 2015
+ZAF,2020-02-01,2020-02-29,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,Index,125.171600,X,base year is 2015
+ZAF,2021-02-01,2021-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,Index,128.817400,X,base year is 2015
+ZAF,2022-02-01,2022-02-28,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,Index,136.108900,X,base year is 2015
+ZAF,2000-03-01,2000-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,Index,44.886880,X,base year is 2015
+ZAF,2001-03-01,2001-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,Index,48.198210,X,base year is 2015
+ZAF,2002-03-01,2002-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,Index,51.243970,X,base year is 2015
+ZAF,2003-03-01,2003-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,Index,56.684040,X,base year is 2015
+ZAF,2004-03-01,2004-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,Index,55.721190,X,base year is 2015
+ZAF,2005-03-01,2005-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,Index,56.800950,X,base year is 2015
+ZAF,2006-03-01,2006-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,Index,57.860080,X,base year is 2015
+ZAF,2007-03-01,2007-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,Index,60.941180,X,base year is 2015
+ZAF,2008-03-01,2008-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,Index,66.839200,X,base year is 2015
+ZAF,2009-03-01,2009-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,Index,72.915500,X,base year is 2015
+ZAF,2010-03-01,2010-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,Index,76.426240,X,base year is 2015
+ZAF,2011-03-01,2011-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,Index,79.396870,X,base year is 2015
+ZAF,2012-03-01,2012-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,Index,84.257900,X,base year is 2015
+ZAF,2013-03-01,2013-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,Index,89.388990,X,base year is 2015
+ZAF,2014-03-01,2014-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,Index,94.655110,X,base year is 2015
+ZAF,2015-03-01,2015-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,Index,98.570950,X,base year is 2015
+ZAF,2016-03-01,2016-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,Index,104.917300,X,base year is 2015
+ZAF,2017-03-01,2017-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,Index,111.398700,X,base year is 2015
+ZAF,2018-03-01,2018-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,Index,115.584600,X,base year is 2015
+ZAF,2019-03-01,2019-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,Index,120.715700,X,base year is 2015
+ZAF,2020-03-01,2020-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,Index,125.711700,X,base year is 2015
+ZAF,2021-03-01,2021-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,Index,129.627500,X,base year is 2015
+ZAF,2022-03-01,2022-03-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,Index,137.594200,X,base year is 2015
+ZAF,2000-04-01,2000-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,Index,45.484760,X,base year is 2015
+ZAF,2001-04-01,2001-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,Index,48.428160,X,base year is 2015
+ZAF,2002-04-01,2002-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,Index,52.117400,X,base year is 2015
+ZAF,2003-04-01,2003-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,Index,56.814710,X,base year is 2015
+ZAF,2004-04-01,2004-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,Index,55.783090,X,base year is 2015
+ZAF,2005-04-01,2005-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,Index,56.972890,X,base year is 2015
+ZAF,2006-04-01,2006-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,Index,57.997630,X,base year is 2015
+ZAF,2007-04-01,2007-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,Index,61.457000,X,base year is 2015
+ZAF,2008-04-01,2008-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,Index,67.244290,X,base year is 2015
+ZAF,2009-04-01,2009-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,Index,73.185550,X,base year is 2015
+ZAF,2010-04-01,2010-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,Index,76.426240,X,base year is 2015
+ZAF,2011-04-01,2011-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,Index,79.666930,X,base year is 2015
+ZAF,2012-04-01,2012-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,Index,84.662990,X,base year is 2015
+ZAF,2013-04-01,2013-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,Index,89.524020,X,base year is 2015
+ZAF,2014-04-01,2014-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,Index,95.195230,X,base year is 2015
+ZAF,2015-04-01,2015-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,Index,99.516140,X,base year is 2015
+ZAF,2016-04-01,2016-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,Index,105.997500,X,base year is 2015
+ZAF,2017-04-01,2017-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,Index,111.533700,X,base year is 2015
+ZAF,2018-04-01,2018-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,Index,116.259700,X,base year is 2015
+ZAF,2019-04-01,2019-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,Index,121.390800,X,base year is 2015
+ZAF,2020-04-01,2020-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,Index,124.901500,X,base year is 2015
+ZAF,2021-04-01,2021-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,Index,130.572800,X,base year is 2015
+ZAF,2022-04-01,2022-04-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,Index,138.404400,X,base year is 2015
+ZAF,2000-05-01,2000-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,Index,45.668720,X,base year is 2015
+ZAF,2001-05-01,2001-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,Index,48.612130,X,base year is 2015
+ZAF,2002-05-01,2002-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,Index,52.371870,X,base year is 2015
+ZAF,2003-05-01,2003-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,Index,56.814710,X,base year is 2015
+ZAF,2004-05-01,2004-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,Index,55.789970,X,base year is 2015
+ZAF,2005-05-01,2005-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,Index,56.835340,X,base year is 2015
+ZAF,2006-05-01,2006-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,Index,58.217710,X,base year is 2015
+ZAF,2007-05-01,2007-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,Index,61.738970,X,base year is 2015
+ZAF,2008-05-01,2008-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,Index,67.784400,X,base year is 2015
+ZAF,2009-05-01,2009-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,Index,73.455610,X,base year is 2015
+ZAF,2010-05-01,2010-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,Index,76.561270,X,base year is 2015
+ZAF,2011-05-01,2011-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,Index,80.072010,X,base year is 2015
+ZAF,2012-05-01,2012-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,Index,84.662990,X,base year is 2015
+ZAF,2013-05-01,2013-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,Index,89.388990,X,base year is 2015
+ZAF,2014-05-01,2014-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,Index,95.465290,X,base year is 2015
+ZAF,2015-05-01,2015-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,Index,99.651180,X,base year is 2015
+ZAF,2016-05-01,2016-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,Index,106.132600,X,base year is 2015
+ZAF,2017-05-01,2017-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,Index,111.803800,X,base year is 2015
+ZAF,2018-05-01,2018-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,Index,116.664800,X,base year is 2015
+ZAF,2019-05-01,2019-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,Index,121.795900,X,base year is 2015
+ZAF,2020-05-01,2020-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,Index,124.226400,X,base year is 2015
+ZAF,2021-05-01,2021-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,Index,130.707800,X,base year is 2015
+ZAF,2022-05-01,2022-05-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,Index,139.349600,X,base year is 2015
+ZAF,2000-06-01,2000-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,Index,45.944670,X,base year is 2015
+ZAF,2001-06-01,2001-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,Index,48.842080,X,base year is 2015
+ZAF,2002-06-01,2002-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,Index,52.818900,X,base year is 2015
+ZAF,2003-06-01,2003-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,Index,56.711550,X,base year is 2015
+ZAF,2004-06-01,2004-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,Index,55.838110,X,base year is 2015
+ZAF,2005-06-01,2005-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,Index,56.718430,X,base year is 2015
+ZAF,2006-06-01,2006-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,Index,58.644120,X,base year is 2015
+ZAF,2007-06-01,2007-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,Index,62.179130,X,base year is 2015
+ZAF,2008-06-01,2008-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,Index,68.729610,X,base year is 2015
+ZAF,2009-06-01,2009-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,Index,73.725670,X,base year is 2015
+ZAF,2010-06-01,2010-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,Index,76.561270,X,base year is 2015
+ZAF,2011-06-01,2011-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,Index,80.477100,X,base year is 2015
+ZAF,2012-06-01,2012-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,Index,85.068080,X,base year is 2015
+ZAF,2013-06-01,2013-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,Index,89.659050,X,base year is 2015
+ZAF,2014-06-01,2014-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,Index,95.735340,X,base year is 2015
+ZAF,2015-06-01,2015-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,Index,100.191300,X,base year is 2015
+ZAF,2016-06-01,2016-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,Index,106.672700,X,base year is 2015
+ZAF,2017-06-01,2017-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,Index,112.073800,X,base year is 2015
+ZAF,2018-06-01,2018-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,Index,116.934800,X,base year is 2015
+ZAF,2019-06-01,2019-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,Index,122.201000,X,base year is 2015
+ZAF,2020-06-01,2020-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,Index,124.766500,X,base year is 2015
+ZAF,2021-06-01,2021-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,Index,131.112900,X,base year is 2015
+ZAF,2022-06-01,2022-06-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,Index,140.834900,X,base year is 2015
+ZAF,2000-07-01,2000-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,Index,46.358580,X,base year is 2015
+ZAF,2001-07-01,2001-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,Index,48.796090,X,base year is 2015
+ZAF,2002-07-01,2002-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,Index,53.657960,X,base year is 2015
+ZAF,2003-07-01,2003-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,Index,56.422700,X,base year is 2015
+ZAF,2004-07-01,2004-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,Index,55.948150,X,base year is 2015
+ZAF,2005-07-01,2005-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,Index,57.137950,X,base year is 2015
+ZAF,2006-07-01,2006-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,Index,59.049880,X,base year is 2015
+ZAF,2007-07-01,2007-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,Index,62.715570,X,base year is 2015
+ZAF,2008-07-01,2008-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,Index,69.809840,X,base year is 2015
+ZAF,2009-07-01,2009-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,Index,74.400810,X,base year is 2015
+ZAF,2010-07-01,2010-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,Index,77.101390,X,base year is 2015
+ZAF,2011-07-01,2011-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,Index,81.152240,X,base year is 2015
+ZAF,2012-07-01,2012-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,Index,85.068080,X,base year is 2015
+ZAF,2013-07-01,2013-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,Index,90.604260,X,base year is 2015
+ZAF,2014-07-01,2014-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,Index,96.545520,X,base year is 2015
+ZAF,2015-07-01,2015-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,Index,101.001500,X,base year is 2015
+ZAF,2016-07-01,2016-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,Index,107.617900,X,base year is 2015
+ZAF,2017-07-01,2017-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,Index,112.208800,X,base year is 2015
+ZAF,2018-07-01,2018-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,Index,117.880100,X,base year is 2015
+ZAF,2019-07-01,2019-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,Index,122.606100,X,base year is 2015
+ZAF,2020-07-01,2020-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,Index,126.521900,X,base year is 2015
+ZAF,2021-07-01,2021-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,Index,132.463200,X,base year is 2015
+ZAF,2022-07-01,2022-07-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,Index,143.130400,X,base year is 2015
+ZAF,2000-08-01,2000-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,Index,46.542550,X,base year is 2015
+ZAF,2001-08-01,2001-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,Index,48.704110,X,base year is 2015
+ZAF,2002-08-01,2002-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,Index,53.946810,X,base year is 2015
+ZAF,2003-08-01,2003-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,Index,56.546490,X,base year is 2015
+ZAF,2004-08-01,2004-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,Index,55.838110,X,base year is 2015
+ZAF,2005-08-01,2005-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,Index,57.234230,X,base year is 2015
+ZAF,2006-08-01,2006-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,Index,59.455650,X,base year is 2015
+ZAF,2007-08-01,2007-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,Index,63.114460,X,base year is 2015
+ZAF,2008-08-01,2008-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,Index,70.214920,X,base year is 2015
+ZAF,2009-08-01,2009-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,Index,74.670870,X,base year is 2015
+ZAF,2010-08-01,2010-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,Index,77.101390,X,base year is 2015
+ZAF,2011-08-01,2011-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,Index,81.152240,X,base year is 2015
+ZAF,2012-08-01,2012-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,Index,85.473160,X,base year is 2015
+ZAF,2013-08-01,2013-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,Index,90.874310,X,base year is 2015
+ZAF,2014-08-01,2014-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,Index,96.815570,X,base year is 2015
+ZAF,2015-08-01,2015-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,Index,101.136500,X,base year is 2015
+ZAF,2016-08-01,2016-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,Index,107.482800,X,base year is 2015
+ZAF,2017-08-01,2017-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,Index,112.343900,X,base year is 2015
+ZAF,2018-08-01,2018-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,Index,117.745000,X,base year is 2015
+ZAF,2019-08-01,2019-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,Index,122.876100,X,base year is 2015
+ZAF,2020-08-01,2020-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,Index,126.656900,X,base year is 2015
+ZAF,2021-08-01,2021-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,Index,133.003300,X,base year is 2015
+ZAF,2022-08-01,2022-08-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,Index,143.535500,X,base year is 2015
+ZAF,2000-09-01,2000-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,Index,46.772500,X,base year is 2015
+ZAF,2001-09-01,2001-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,Index,48.842080,X,base year is 2015
+ZAF,2002-09-01,2002-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,Index,54.421350,X,base year is 2015
+ZAF,2003-09-01,2003-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,Index,56.161350,X,base year is 2015
+ZAF,2004-09-01,2004-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,Index,55.851860,X,base year is 2015
+ZAF,2005-09-01,2005-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,Index,57.282380,X,base year is 2015
+ZAF,2006-09-01,2006-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,Index,59.606960,X,base year is 2015
+ZAF,2007-09-01,2007-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,Index,63.472090,X,base year is 2015
+ZAF,2008-09-01,2008-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,Index,70.620010,X,base year is 2015
+ZAF,2009-09-01,2009-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,Index,74.805890,X,base year is 2015
+ZAF,2010-09-01,2010-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,Index,77.236410,X,base year is 2015
+ZAF,2011-09-01,2011-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,Index,81.692360,X,base year is 2015
+ZAF,2012-09-01,2012-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,Index,86.148310,X,base year is 2015
+ZAF,2013-09-01,2013-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,Index,91.279400,X,base year is 2015
+ZAF,2014-09-01,2014-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,Index,96.815570,X,base year is 2015
+ZAF,2015-09-01,2015-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,Index,101.136500,X,base year is 2015
+ZAF,2016-09-01,2016-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,Index,107.617900,X,base year is 2015
+ZAF,2017-09-01,2017-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,Index,112.884000,X,base year is 2015
+ZAF,2018-09-01,2018-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,Index,118.420200,X,base year is 2015
+ZAF,2019-09-01,2019-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,Index,123.281200,X,base year is 2015
+ZAF,2020-09-01,2020-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,Index,126.791900,X,base year is 2015
+ZAF,2021-09-01,2021-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,Index,133.273300,X,base year is 2015
+ZAF,2022-09-01,2022-09-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,Index,143.670500,X,base year is 2015
+ZAF,2000-10-01,2000-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,Index,46.910470,X,base year is 2015
+ZAF,2001-10-01,2001-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,Index,48.796090,X,base year is 2015
+ZAF,2002-10-01,2002-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,Index,55.232890,X,base year is 2015
+ZAF,2003-10-01,2003-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,Index,55.728070,X,base year is 2015
+ZAF,2004-10-01,2004-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,Index,56.010050,X,base year is 2015
+ZAF,2005-10-01,2005-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,Index,57.351150,X,base year is 2015
+ZAF,2006-10-01,2006-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,Index,59.923320,X,base year is 2015
+ZAF,2007-10-01,2007-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,Index,64.056680,X,base year is 2015
+ZAF,2008-10-01,2008-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,Index,70.890060,X,base year is 2015
+ZAF,2009-10-01,2009-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,Index,74.805890,X,base year is 2015
+ZAF,2010-10-01,2010-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,Index,77.371440,X,base year is 2015
+ZAF,2011-10-01,2011-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,Index,82.232480,X,base year is 2015
+ZAF,2012-10-01,2012-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,Index,86.688420,X,base year is 2015
+ZAF,2013-10-01,2013-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,Index,91.549450,X,base year is 2015
+ZAF,2014-10-01,2014-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,Index,96.950600,X,base year is 2015
+ZAF,2015-10-01,2015-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,Index,101.406500,X,base year is 2015
+ZAF,2016-10-01,2016-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,Index,108.158000,X,base year is 2015
+ZAF,2017-10-01,2017-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,Index,113.289100,X,base year is 2015
+ZAF,2018-10-01,2018-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,Index,118.960300,X,base year is 2015
+ZAF,2019-10-01,2019-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,Index,123.281200,X,base year is 2015
+ZAF,2020-10-01,2020-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,Index,127.332100,X,base year is 2015
+ZAF,2021-10-01,2021-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,Index,133.678400,X,base year is 2015
+ZAF,2022-10-01,2022-10-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,Index,144.075600,X,base year is 2015
+ZAF,2000-11-01,2000-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,Index,47.002450,X,base year is 2015
+ZAF,2001-11-01,2001-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,Index,49.026040,X,base year is 2015
+ZAF,2002-11-01,2002-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,Index,55.893130,X,base year is 2015
+ZAF,2003-11-01,2003-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,Index,55.095340,X,base year is 2015
+ZAF,2004-11-01,2004-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,Index,56.340160,X,base year is 2015
+ZAF,2005-11-01,2005-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,Index,57.337390,X,base year is 2015
+ZAF,2006-11-01,2006-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,Index,59.923320,X,base year is 2015
+ZAF,2007-11-01,2007-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,Index,64.256120,X,base year is 2015
+ZAF,2008-11-01,2008-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,Index,70.890060,X,base year is 2015
+ZAF,2009-11-01,2009-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,Index,74.805890,X,base year is 2015
+ZAF,2010-11-01,2010-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,Index,77.506470,X,base year is 2015
+ZAF,2011-11-01,2011-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,Index,82.232480,X,base year is 2015
+ZAF,2012-11-01,2012-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,Index,86.958480,X,base year is 2015
+ZAF,2013-11-01,2013-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,Index,91.684490,X,base year is 2015
+ZAF,2014-11-01,2014-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,Index,96.950600,X,base year is 2015
+ZAF,2015-11-01,2015-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,Index,101.541600,X,base year is 2015
+ZAF,2016-11-01,2016-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,Index,108.563100,X,base year is 2015
+ZAF,2017-11-01,2017-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,Index,113.289100,X,base year is 2015
+ZAF,2018-11-01,2018-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,Index,119.095300,X,base year is 2015
+ZAF,2019-11-01,2019-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,Index,123.416200,X,base year is 2015
+ZAF,2020-11-01,2020-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,Index,127.332100,X,base year is 2015
+ZAF,2021-11-01,2021-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,Index,134.218500,X,base year is 2015
+ZAF,2022-11-01,2022-11-30,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,Index,144.615700,X,base year is 2015
+ZAF,2000-12-01,2000-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,Index,47.140420,X,base year is 2015
+ZAF,2001-12-01,2001-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,Index,49.301980,X,base year is 2015
+ZAF,2002-12-01,2002-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,Index,55.961900,X,base year is 2015
+ZAF,2003-12-01,2003-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,Index,55.047200,X,base year is 2015
+ZAF,2004-12-01,2004-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,Index,56.257630,X,base year is 2015
+ZAF,2005-12-01,2005-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,Index,57.392410,X,base year is 2015
+ZAF,2006-12-01,2006-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,Index,60.157150,X,base year is 2015
+ZAF,2007-12-01,2007-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,Index,64.710040,X,base year is 2015
+ZAF,2008-12-01,2008-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,Index,70.755040,X,base year is 2015
+ZAF,2009-12-01,2009-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,Index,75.075950,X,base year is 2015
+ZAF,2010-12-01,2010-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,Index,77.641500,X,base year is 2015
+ZAF,2011-12-01,2011-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,Index,82.502530,X,base year is 2015
+ZAF,2012-12-01,2012-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,Index,87.228540,X,base year is 2015
+ZAF,2013-12-01,2013-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,Index,91.819510,X,base year is 2015
+ZAF,2014-12-01,2014-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,Index,96.815570,X,base year is 2015
+ZAF,2015-12-01,2015-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,Index,101.811600,X,base year is 2015
+ZAF,2016-12-01,2016-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,Index,108.968200,X,base year is 2015
+ZAF,2017-12-01,2017-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,Index,113.829200,X,base year is 2015
+ZAF,2018-12-01,2018-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,Index,118.960300,X,base year is 2015
+ZAF,2019-12-01,2019-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,Index,123.686300,X,base year is 2015
+ZAF,2020-12-01,2020-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,Index,127.467100,X,base year is 2015
+ZAF,2021-12-01,2021-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,Index,135.028700,X,base year is 2015
+ZAF,2022-12-01,2022-12-31,202,'710,South Africa,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,Index,145.155800,X,base year is 2015
+ZAF,2001-01-01,2001-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,4.958693,E,
+ZAF,2002-01-01,2002-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,12.303130,E,
+ZAF,2003-01-01,2003-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,17.388491,E,
+ZAF,2004-01-01,2004-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,1.317606,E,
+ZAF,2005-01-01,2005-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,1.245727,E,
+ZAF,2006-01-01,2006-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,3.569489,E,
+ZAF,2007-01-01,2007-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,7.715403,E,
+ZAF,2008-01-01,2008-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,13.198399,E,
+ZAF,2009-01-01,2009-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,15.962439,E,
+ZAF,2010-01-01,2010-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,2.024303,E,
+ZAF,2011-01-01,2011-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,3.373015,E,
+ZAF,2012-01-01,2012-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,10.172739,E,
+ZAF,2013-01-01,2013-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,5.923344,E,
+ZAF,2014-01-01,2014-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,4.934215,E,
+ZAF,2015-01-01,2015-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,6.112856,E,
+ZAF,2016-01-01,2016-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,7.237815,E,
+ZAF,2017-01-01,2017-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,12.534454,E,
+ZAF,2018-01-01,2018-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,3.916786,E,
+ZAF,2019-01-01,2019-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,2.944574,E,
+ZAF,2020-01-01,2020-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,3.775785,E,
+ZAF,2021-01-01,2021-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,5.292158,E,
+ZAF,2022-01-01,2022-01-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,5.654490,E,
+ZAF,2001-02-01,2001-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,5.333315,E,
+ZAF,2002-02-01,2002-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,12.113260,E,
+ZAF,2003-02-01,2003-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,15.279126,E,
+ZAF,2004-02-01,2004-02-29,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,2.421261,E,
+ZAF,2005-02-01,2005-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,1.106877,E,
+ZAF,2006-02-01,2006-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,3.797799,E,
+ZAF,2007-02-01,2007-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,7.343763,E,
+ZAF,2008-02-01,2008-02-29,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,13.560450,E,
+ZAF,2009-02-01,2009-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,15.925073,E,
+ZAF,2010-02-01,2010-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,1.616162,E,
+ZAF,2011-02-01,2011-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,3.578526,E,
+ZAF,2012-02-01,2012-02-29,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,9.788865,E,
+ZAF,2013-02-01,2013-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,5.769231,E,
+ZAF,2014-02-01,2014-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,5.950421,E,
+ZAF,2015-02-01,2015-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,6.084235,E,
+ZAF,2016-02-01,2016-02-29,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,9.411788,E,
+ZAF,2017-02-01,2017-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,10.483818,E,
+ZAF,2018-02-01,2018-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,3.406332,E,
+ZAF,2019-02-01,2019-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,2.823523,E,
+ZAF,2020-02-01,2020-02-29,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,4.233463,E,
+ZAF,2021-02-01,2021-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,5.049338,E,
+ZAF,2022-02-01,2022-02-28,202,'710,South Africa,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,6.478643,E,
+ZAF,2001-03-01,2001-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,4.563890,E,
+ZAF,2002-03-01,2002-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,13.786457,E,
+ZAF,2003-03-01,2003-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,13.586688,E,
+ZAF,2004-03-01,2004-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,2.133010,E,
+ZAF,2005-03-01,2005-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,0.859943,E,
+ZAF,2006-03-01,2006-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,4.384902,E,
+ZAF,2007-03-01,2007-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,7.519774,E,
+ZAF,2008-03-01,2008-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,14.740121,E,
+ZAF,2009-03-01,2009-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,14.746549,E,
+ZAF,2010-03-01,2010-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,1.004022,E,
+ZAF,2011-03-01,2011-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,4.771373,E,
+ZAF,2012-03-01,2012-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,8.728645,E,
+ZAF,2013-03-01,2013-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,5.410125,E,
+ZAF,2014-03-01,2014-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,7.781461,E,
+ZAF,2015-03-01,2015-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,5.222733,E,
+ZAF,2016-03-01,2016-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,10.656956,E,
+ZAF,2017-03-01,2017-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,8.970936,E,
+ZAF,2018-03-01,2018-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,2.905562,E,
+ZAF,2019-03-01,2019-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,3.176453,E,
+ZAF,2020-03-01,2020-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,4.104934,E,
+ZAF,2021-03-01,2021-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,5.695508,E,
+ZAF,2022-03-01,2022-03-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,6.217637,E,
+ZAF,2001-04-01,2001-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,4.020094,E,
+ZAF,2002-04-01,2002-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,15.482611,E,
+ZAF,2003-04-01,2003-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,11.470323,E,
+ZAF,2004-04-01,2004-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,2.147236,E,
+ZAF,2005-04-01,2005-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,0.914551,E,
+ZAF,2006-04-01,2006-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,4.734191,E,
+ZAF,2007-04-01,2007-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,8.420527,E,
+ZAF,2008-04-01,2008-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,14.651855,E,
+ZAF,2009-04-01,2009-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,13.895211,E,
+ZAF,2010-04-01,2010-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,0.800007,E,
+ZAF,2011-04-01,2011-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,4.761906,E,
+ZAF,2012-04-01,2012-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,8.522721,E,
+ZAF,2013-04-01,2013-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,5.933681,E,
+ZAF,2014-04-01,2014-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,8.731473,E,
+ZAF,2015-04-01,2015-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,4.393934,E,
+ZAF,2016-04-01,2016-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,12.336707,E,
+ZAF,2017-04-01,2017-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,6.589120,E,
+ZAF,2018-04-01,2018-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,3.393946,E,
+ZAF,2019-04-01,2019-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,3.048106,E,
+ZAF,2020-04-01,2020-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,4.209301,E,
+ZAF,2021-04-01,2021-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,6.331932,E,
+ZAF,2022-04-01,2022-04-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,5.954802,E,
+ZAF,2001-05-01,2001-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,3.888351,E,
+ZAF,2002-05-01,2002-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,15.562567,E,
+ZAF,2003-05-01,2003-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,11.277382,E,
+ZAF,2004-05-01,2004-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,1.719109,E,
+ZAF,2005-05-01,2005-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,0.681481,E,
+ZAF,2006-05-01,2006-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,5.320155,E,
+ZAF,2007-05-01,2007-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,9.035997,E,
+ZAF,2008-05-01,2008-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,15.530142,E,
+ZAF,2009-05-01,2009-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,12.304241,E,
+ZAF,2010-05-01,2010-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,0.597618,E,
+ZAF,2011-05-01,2011-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,6.138604,E,
+ZAF,2012-05-01,2012-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,6.902993,E,
+ZAF,2013-05-01,2013-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,5.933681,E,
+ZAF,2014-05-01,2014-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,9.555190,E,
+ZAF,2015-05-01,2015-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,4.210533,E,
+ZAF,2016-05-01,2016-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,11.976951,E,
+ZAF,2017-05-01,2017-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,6.829828,E,
+ZAF,2018-05-01,2018-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,2.774480,E,
+ZAF,2019-05-01,2019-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,3.521096,E,
+ZAF,2020-05-01,2020-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,4.194984,E,
+ZAF,2021-05-01,2021-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,6.746454,E,
+ZAF,2022-05-01,2022-05-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,7.543348,E,
+ZAF,2001-06-01,2001-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,3.171457,E,
+ZAF,2002-06-01,2002-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,17.779323,E,
+ZAF,2003-06-01,2003-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,8.999999,E,
+ZAF,2004-06-01,2004-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,1.445664,E,
+ZAF,2005-06-01,2005-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,0.726210,E,
+ZAF,2006-06-01,2006-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,6.393696,E,
+ZAF,2007-06-01,2007-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,9.142062,E,
+ZAF,2008-06-01,2008-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,16.867628,E,
+ZAF,2009-06-01,2009-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,10.109897,E,
+ZAF,2010-06-01,2010-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,0.399198,E,
+ZAF,2011-06-01,2011-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,6.958247,E,
+ZAF,2012-06-01,2012-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,6.133829,E,
+ZAF,2013-06-01,2013-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,6.304724,E,
+ZAF,2014-06-01,2014-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,9.719944,E,
+ZAF,2015-06-01,2015-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,4.054051,E,
+ZAF,2016-06-01,2016-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,11.976951,E,
+ZAF,2017-06-01,2017-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,6.829828,E,
+ZAF,2018-06-01,2018-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,2.895048,E,
+ZAF,2019-06-01,2019-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,3.751484,E,
+ZAF,2020-06-01,2020-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,4.067826,E,
+ZAF,2021-06-01,2021-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,6.623202,E,
+ZAF,2022-06-01,2022-06-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,8.859476,E,
+ZAF,2001-07-01,2001-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,3.667000,E,
+ZAF,2002-07-01,2002-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,18.814723,E,
+ZAF,2003-07-01,2003-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,7.503745,E,
+ZAF,2004-07-01,2004-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,0.889877,E,
+ZAF,2005-07-01,2005-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,2.081033,E,
+ZAF,2006-07-01,2006-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,6.115847,E,
+ZAF,2007-07-01,2007-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,9.783695,E,
+ZAF,2008-07-01,2008-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,17.640767,E,
+ZAF,2009-07-01,2009-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,7.559392,E,
+ZAF,2010-07-01,2010-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,1.204823,E,
+ZAF,2011-07-01,2011-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,7.539674,E,
+ZAF,2012-07-01,2012-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,5.350560,E,
+ZAF,2013-07-01,2013-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,6.654996,E,
+ZAF,2014-07-01,2014-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,9.195393,E,
+ZAF,2015-07-01,2015-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,4.210533,E,
+ZAF,2016-07-01,2016-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,12.554067,E,
+ZAF,2017-07-01,2017-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,6.410294,E,
+ZAF,2018-07-01,2018-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,3.012065,E,
+ZAF,2019-07-01,2019-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,3.508742,E,
+ZAF,2020-07-01,2020-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,4.180843,E,
+ZAF,2021-07-01,2021-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,6.724498,E,
+ZAF,2022-07-01,2022-07-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,9.857716,E,
+ZAF,2001-08-01,2001-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,3.956472,E,
+ZAF,2002-08-01,2002-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,20.299834,E,
+ZAF,2003-08-01,2003-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,5.730236,E,
+ZAF,2004-08-01,2004-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,0.639261,E,
+ZAF,2005-08-01,2005-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,2.402646,E,
+ZAF,2006-08-01,2006-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,6.526433,E,
+ZAF,2007-08-01,2007-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,10.772155,E,
+ZAF,2008-08-01,2008-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,17.253384,E,
+ZAF,2009-08-01,2009-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,6.623936,E,
+ZAF,2010-08-01,2010-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,1.603207,E,
+ZAF,2011-08-01,2011-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,7.100587,E,
+ZAF,2012-08-01,2012-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,4.972386,E,
+ZAF,2013-08-01,2013-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,7.368408,E,
+ZAF,2014-08-01,2014-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,9.477136,E,
+ZAF,2015-08-01,2015-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,4.179100,E,
+ZAF,2016-08-01,2016-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,12.750679,E,
+ZAF,2017-08-01,2017-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,5.209730,E,
+ZAF,2018-08-01,2018-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,3.140052,E,
+ZAF,2019-08-01,2019-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,4.215487,E,
+ZAF,2020-08-01,2020-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,3.707826,E,
+ZAF,2021-08-01,2021-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,6.825581,E,
+ZAF,2022-08-01,2022-08-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,11.561855,E,
+ZAF,2001-09-01,2001-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,4.635117,E,
+ZAF,2002-09-01,2002-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,21.477185,E,
+ZAF,2003-09-01,2003-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,3.574520,E,
+ZAF,2004-09-01,2004-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,0.848872,E,
+ZAF,2005-09-01,2005-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,2.690767,E,
+ZAF,2006-09-01,2006-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,7.242678,E,
+ZAF,2007-09-01,2007-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,11.652681,E,
+ZAF,2008-09-01,2008-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,16.870365,E,
+ZAF,2009-09-01,2009-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,5.052633,E,
+ZAF,2010-09-01,2010-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,1.402808,E,
+ZAF,2011-09-01,2011-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,8.498021,E,
+ZAF,2012-09-01,2012-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,5.828782,E,
+ZAF,2013-09-01,2013-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,6.196209,E,
+ZAF,2014-09-01,2014-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,8.589959,E,
+ZAF,2015-09-01,2015-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,4.328384,E,
+ZAF,2016-09-01,2016-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,12.732434,E,
+ZAF,2017-09-01,2017-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,5.076188,E,
+ZAF,2018-09-01,2018-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,3.502360,E,
+ZAF,2019-09-01,2019-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,4.084021,E,
+ZAF,2020-09-01,2020-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,3.587461,E,
+ZAF,2021-09-01,2021-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,6.709945,E,
+ZAF,2022-09-01,2022-09-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,11.967545,E,
+ZAF,2001-10-01,2001-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,6.324112,E,
+ZAF,2002-10-01,2002-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,21.820996,E,
+ZAF,2003-10-01,2003-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,2.338450,E,
+ZAF,2004-10-01,2004-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,1.038632,E,
+ZAF,2005-10-01,2005-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,2.179268,E,
+ZAF,2006-10-01,2006-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,8.343406,E,
+ZAF,2007-10-01,2007-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,12.133226,E,
+ZAF,2008-10-01,2008-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,15.954696,E,
+ZAF,2009-10-01,2009-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,5.010455,E,
+ZAF,2010-10-01,2010-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,0.994027,E,
+ZAF,2011-10-01,2011-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,10.236231,E,
+ZAF,2012-10-01,2012-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,6.249984,E,
+ZAF,2013-10-01,2013-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,4.537824,E,
+ZAF,2014-10-01,2014-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,7.717044,E,
+ZAF,2015-10-01,2015-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,5.074595,E,
+ZAF,2016-10-01,2016-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,12.784086,E,
+ZAF,2017-10-01,2017-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,4.911860,E,
+ZAF,2018-10-01,2018-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,3.001217,E,
+ZAF,2019-10-01,2019-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,3.846194,E,
+ZAF,2020-10-01,2020-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,5.162677,E,
+ZAF,2021-10-01,2021-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,6.189947,E,
+ZAF,2022-10-01,2022-10-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,11.959822,E,
+ZAF,2001-11-01,2001-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,8.523286,E,
+ZAF,2002-11-01,2002-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,20.538523,E,
+ZAF,2003-11-01,2003-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,2.350464,E,
+ZAF,2004-11-01,2004-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,1.210104,E,
+ZAF,2005-11-01,2005-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,1.942937,E,
+ZAF,2006-11-01,2006-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,8.023451,E,
+ZAF,2007-11-01,2007-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,12.831587,E,
+ZAF,2008-11-01,2008-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,15.558161,E,
+ZAF,2009-11-01,2009-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,4.149372,E,
+ZAF,2010-11-01,2010-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,1.195223,E,
+ZAF,2011-11-01,2011-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,10.826777,E,
+ZAF,2012-11-01,2012-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,7.104798,E,
+ZAF,2013-11-01,2013-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,3.980089,E,
+ZAF,2014-11-01,2014-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,7.336529,E,
+ZAF,2015-11-01,2015-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,5.497818,E,
+ZAF,2016-11-01,2016-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,12.394296,E,
+ZAF,2017-11-01,2017-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,4.761901,E,
+ZAF,2018-11-01,2018-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,3.110089,E,
+ZAF,2019-11-01,2019-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,3.712314,E,
+ZAF,2020-11-01,2020-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,5.480913,E,
+ZAF,2021-11-01,2021-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,5.620382,E,
+ZAF,2022-11-01,2022-11-30,202,'710,South Africa,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,12.449850,E,
+ZAF,2001-12-01,2001-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,11.420035,E,
+ZAF,2002-12-01,2002-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,18.035216,E,
+ZAF,2003-12-01,2003-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,1.613140,E,
+ZAF,2004-12-01,2004-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,1.297631,E,
+ZAF,2005-12-01,2005-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,3.447803,E,
+ZAF,2006-12-01,2006-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,6.942430,E,
+ZAF,2007-12-01,2007-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,13.118988,E,
+ZAF,2008-12-01,2008-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,15.557477,E,
+ZAF,2009-12-01,2009-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,3.512411,E,
+ZAF,2010-12-01,2010-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,1.596793,E,
+ZAF,2011-12-01,2011-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,11.198431,E,
+ZAF,2012-12-01,2012-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,6.537109,E,
+ZAF,2013-12-01,2013-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,3.980089,E,
+ZAF,2014-12-01,2014-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,7.017552,E,
+ZAF,2015-12-01,2015-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,6.408302,E,
+ZAF,2016-12-01,2016-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,12.745123,E,
+ZAF,2017-12-01,2017-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,4.223585,E,
+ZAF,2018-12-01,2018-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,2.741411,E,
+ZAF,2019-12-01,2019-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,3.944298,E,
+ZAF,2020-12-01,2020-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,5.915199,E,
+ZAF,2021-12-01,2021-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,5.374054,E,
+ZAF,2022-12-01,2022-12-31,202,'710,South Africa,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,12.500000,E,
